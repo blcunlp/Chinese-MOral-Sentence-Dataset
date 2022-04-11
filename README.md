@@ -1,6 +1,6 @@
 
-# CMOS:Chinese-MOral-Sentence-Dataset
-### 1. CMOS中文道德句数据集简介
+# CMOS中文道德句数据集
+### 1. CMOS:Chinese-MOral-Sentence-Dataset
     在现有的中文道德研究领域里，还不存在较大型的中文文本道德句相关的数据集，所以面向中文的文本道德句识别任务较难发展。
     为了解决这个问题，我们首先建设了一个10万级别的大型中文道德句数据集Chinese-MOral-Sentence-Dataset（CMOS）。
     其次，为了加大本任务的挑战难度，我们还利用机器辅助的方法对得到的中文道德句数据集进行进一步筛选，以相应的规则抽选出另一个难度较高的数据集。 
