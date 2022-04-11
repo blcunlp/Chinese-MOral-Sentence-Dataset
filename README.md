@@ -12,7 +12,7 @@
 
     
 ### 2. 论文链接  
-    彭诗雅, 刘畅, 邓雅月, 于东. 2021. 字里行间的道德:中文文本道德句识别研究,第二十届中国计算语言学大会（CCL2021）
+    彭诗雅, 刘畅, 邓雅月, 于东. 2021. 字里行间的道德:中文文本道德句识别研究, 第二十届中国计算语言学大会（CCL2021）
     
     Shiya Peng, Chang Liu, Yayue Deng, and Dong Yu. 2021,Morality Between the Lines: Research on Identification of Chinese Moral Sentenc，
     In Proceedings of  the 20th Chinese National Conference on Computational Linguistics, pages 537–548, Huhhot,China. 
