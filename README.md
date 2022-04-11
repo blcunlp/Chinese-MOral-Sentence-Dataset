@@ -11,7 +11,11 @@
     中文道德句数据集为后续针对文本道德句的相关研究提供了数据支撑，也为日后面向文本道德的相的研究提供了数据基础。
     
 ### 2. 论文链接  
-    Shiya Peng, Chang Liu, Yayue Deng, and Dong Yu. 2021. 字里行间的道德:中文文本道德句识别研究(Morality Between the Lines: Research on Identification of Chinese   Moral Sentence). In Proceedings of the 20th Chinese National Conference on Computational Linguistics, pages 537–548, Huhhot, China. Chinese Information Processing Society of China.
+    Shiya Peng, Chang Liu, Yayue Deng, and Dong Yu. 2021. 字里行间的道德:中文文本道德句识别研究
+    (Morality Between the Lines: Research on Identification of Chinese   Moral Sentence). 
+    In Proceedings of the 20th Chinese National Conference on Computational Linguistics, pages 537–548, Huhhot,
+    China. Chinese Information Processing Society of China.
+    
     URL:https://aclanthology.org/2021.ccl-1.49/
     
 
